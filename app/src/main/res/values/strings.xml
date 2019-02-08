@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">primeWARE - E.R.P.</string>
+    <string name="saudacao">Olá redondeta/planeta!</string>
+    <string name="textVarValue">um texto qualquer aqui</string>
+    <string name="btnOk">Ok!</string>
+    <string name="not_is_a_member_sign_now">Not is a member? Sign now!</string>
+    <string name="btnLogin">Login</string>
+    <string name="logo_do_produto">logo do produto</string>
+    <string name="hintUser">User</string>
+    <string name="hitnPassword3">***</string>
+</resources>
